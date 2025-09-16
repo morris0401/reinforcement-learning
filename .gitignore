@@ -1,0 +1,8 @@
+*.zip
+*.rar
+*.7z
+*.ipynb_checkpoints/
+*.env
+*.pyc
+magnetic-planet-410419-b0b1cad3111e.json
+*.json
